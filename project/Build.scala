@@ -23,7 +23,7 @@ import Keys._
 import sbt.inc.Analysis
 
 object BuildSettings {
-  val buildVersion = "3.3.0"
+  val buildVersion = "3.4.2"
   val buildScalaVersion = "2.10.6"
 
   val buildSettings = Defaults.coreDefaultSettings ++ Seq(
